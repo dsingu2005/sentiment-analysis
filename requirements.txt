@@ -1,3 +1,0 @@
-google-cloud-datastore
-yfinance
-google-cloud-storage
